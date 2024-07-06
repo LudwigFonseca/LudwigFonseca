@@ -29,7 +29,10 @@ Welcome to my GitHub profile! I'm an Engineer with a degree in Control and Autom
 [![My Skills](https://skillicons.dev/icons?i=c,java,js,latex,py)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,docker,git,github,postman,prometheus,nodejs,npm,raspberrypi,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,docker,git,github,postman,prometheus,nodejs,npm,matlab)](https://skillicons.dev)
+
+## Plataforms
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)](https://skillicons.dev)
