@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm an Engineer with a degree in Control and Autom
 [![Linkedin](https://img.shields.io/badge/linkedin-292D3E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludwigfonseca/)](https://www.linkedin.com/in/ludwigfonseca/)
 [![Hotmail Badge](https://img.shields.io/badge/-email-292D3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ludwig.fonseca@hotmail.com)](mailto:ludwig.fonseca@hotmail.com)
 
-## Lnaguages
+## Languages
 [![My Skills](https://skillicons.dev/icons?i=c,java,js,latex,py)](https://skillicons.dev)
 
 ## Tools
