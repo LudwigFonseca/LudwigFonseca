@@ -41,5 +41,4 @@ Welcome to my GitHub profile! I'm an Engineer with a degree in Control and Autom
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ludwigfonseca&shide=contribs,stars&theme=dracula&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludwigfonseca&hide_progress=true&theme=dracula&langs_count=8&hide=css)
