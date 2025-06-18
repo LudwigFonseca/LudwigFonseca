@@ -19,14 +19,6 @@ I'm a **Control and Automation Engineer** and **Full Stack Developer** with a pa
 
 🌟 Currently, I'm diving deeper into machine learning, open-source projects, and modern software architectures while contributing to impactful automation solutions.
 
-## Table of Contents
-- [About Me](#hello-im-ludwig-fonseca)
-- [Key Projects](#key-projects)
-- [Skills](#skills)
-- [Professional Experience](#professional-experience)
-- [Currently Learning](#currently-learning)
-- [Contact](#contact)
-
 ## 🚀 Key Projects
 
 - **IoT Solution for Textile Industry**  
@@ -50,7 +42,7 @@ I'm a **Control and Automation Engineer** and **Full Stack Developer** with a pa
 ## 🛠️ Skills
 
 ### Programming & Scripting
-![Skills](https://skillicons.dev/icons?i=py,c,cpp,js,bash,latex)
+![Skills](https://skillicons.dev/icons?i=py,c,js,bash,latex)
 
 ### Cloud & Infrastructure
 ![Skills](https://skillicons.dev/icons?i=gcp,aws,docker,nodejs,npm)
@@ -89,4 +81,3 @@ I'm a **Control and Automation Engineer** and **Full Stack Developer** with a pa
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludwigfonseca&hide_progress=true&theme=dracula&langs_count=8&hide=css)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ludwigfonseca&theme=dracula)
